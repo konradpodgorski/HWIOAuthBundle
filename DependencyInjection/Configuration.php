@@ -33,6 +33,7 @@ class Configuration implements ConfigurationInterface
             'amazon',
             'auth0',
             'azure',
+            'bexio',
             'bitly',
             'box',
             'bufferapp',
